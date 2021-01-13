@@ -606,11 +606,11 @@ if($d>1){
 </span></a></b>
   </td><td style="text-align: center;">
 				 <a href="" rel="nofollow" target="_blank"
-					><span class="STYLE1" style="color: #9f79ee;"><b>【免费精品资源下载】<br>全网资源免费下载</span></a></b><!--2020年11/17日到期-->
+					><span class="STYLE1" style="color: #9f79ee;"><b>【免费精品资源下载】<br>全网资源免费下载</span></a></b><!--2021年11/17日到期-->
 				</td>
 <td style="text-align: center;">
 				 <a href=""_blank"
-					><span class="STYLE1" style="color: #9f79ee;"> <b>【福利视频|聚合直播】<br>完全免费在线观看各种福利直播</span></a></b><!--2020年11-19日到期-->
+					><span class="STYLE1" style="color: #9f79ee;"> <b>【福利视频|聚合直播】<br>完全免费在线观看各种福利直播</span></a></b><!--2021年11-19日到期-->
   </td>
 
 </tr>
@@ -618,19 +618,19 @@ if($d>1){
 
 <td style="text-align: center;">
 				 <a href="https://jq.qq.com/?_wv=1027&k=cKYtxWmy"_blank"
-					><span class="STYLE1" style="color: #000000;">广告位招租<br>廉价广告费<br>快来加入我们吧！</span></a><!--2020年11/22日到期-->
+					><span class="STYLE1" style="color: #000000;">广告位招租<br>廉价广告费<br>快来加入我们吧！</span></a><!--2021年11/22日到期-->
   </td>
 <td style="text-align: center;">
 				  <a href="https://jq.qq.com/?_wv=1027&k=cKYtxWmy"_blank"
-					><span class="STYLE1" style="color: #9f79ee;"> 广告位招租<br>廉价广告费<br>欢迎加入我们 </span></a><!--2020年11月24日到期-->
+					><span class="STYLE1" style="color: #9f79ee;"> 广告位招租<br>廉价广告费<br>欢迎加入我们 </span></a><!--2021年11月24日到期-->
   </td><td style="text-align: center;">
 				<a href="https://jq.qq.com/?_wv=1027&k=cKYtxWmy" rel="nofollow" target="_blank"
-					><span class="STYLE1" style="color: #FF0000;">广告位招租<br>欢迎加入我们</span></a><!--2020年10月25日到期-->
+					><span class="STYLE1" style="color: #FF0000;">广告位招租<br>欢迎加入我们</span></a><!--2021年10月25日到期-->
   </td><td style="text-align: center;">
 				  <a href="https://wpa.qq.com/msgrd?v=3&uin=25370433&site=qq&menu=yes" rel="nofollow" target="_blank"
 					><span class="STYLE1"style="color: #FFBF00;"><b>广告位招租<br>
 <span class="STYLE1"style="color: #FF0000;">全网最低价的广告费<br></span>
-联系QQ号：25370433</b></span></a><!--2020年11月25日到期-->
+联系QQ号：3585113314</b></span></a><!--2021年11月25日到期-->
 				</td>
 </tr>
 
@@ -643,7 +643,7 @@ if($d>1){
     <!--底部导航-->
     <div class="panel panel-default">
         <center>
-            <div class="panel-body"><span style="font-weight:bold">在线短信测压<i class="fa fa-heart text-danger"></i> 2020 | </span> <a href="http://zy.zz66.xyz"><span style="font-weight:bold">zy.zz66.xyz</span></a> <script language="javascript" type="text/javascript" src="http://js.users.51.la/18759442.js"></script><br>            </div>
+            <div class="panel-body"><span style="font-weight:bold">在线短信测压<i class="fa fa-heart text-danger"></i> 2021 | </span> <a href="http://g.zuike.cf"><span style="font-weight:bold">zy.zz66.xyz</span></a> <script language="javascript" type="text/javascript" src="http://js.users.51.la/18759442.js"></script><br>            </div>
     </center></div>
     <!--底部导航-->
 </div>
@@ -668,7 +668,7 @@ if($d>1){
                    </div>
                    <div class="pull-left push-10-t">
                         <div class="font-w600 push-5"><i class="fa fa-fw fa-qq text-primary"></i> 25370433&nbsp;</div>
-                        <div class="font-w600 push-5">王者特权交流群913988659</div>
+                        <div class="font-w600 push-5">王者特权交流群</div>
                    </div>
 				   </div>
                 </li>
