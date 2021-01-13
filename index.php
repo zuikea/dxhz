@@ -111,7 +111,7 @@
     <div class="tab-content">
 <!--在线下单-->
     <div class="tab-pane active" id="shop">
-       <center><div class="shuaibi-tip animated tada  text-center"><i class="fa fa-heart text-danger"></i> <b>更多资源请收藏官方发布页，有问题请联系站长QQ号或者在本平台留言即可！<i class="fa fa-fw fa-qq text-primary"></i> zy.zz66.xyz&nbsp;<a href="chat/" data-toggle="modal" class="label label-danger"><font color="#FFFFFF">点击留言</font></a></div><h7><span style="color:#009900;">本站仅供个人测试手机性能使用,严禁商业非法用途!否则后果自负。</span></h7><p><span style="color:#ff0000;">本站永久免费提供使用<br>【平台全自动轰炸,使用过程中请勿关闭网页】<br>详细使用说明请点击上面的 公告 浏览查看</span></p><a href="d.html" data-toggle="modal" class="badge badge-primary"><font color="#FFFFFF">【多开模式/全自动轰炸/超强模式/点击进入】</font></a><hr></center> </b>		<div id="goodTypeContents">
+       <center><div class="shuaibi-tip animated tada  text-center"><i class="fa fa-heart text-danger"></i> <b>更多资源请收藏官方发布页，有问题请联系站长QQ号或者在本平台留言即可！<i class="fa fa-fw fa-qq text-primary"></i> duanxinhongzha.herokuapp.com&nbsp;<a href="chat/" data-toggle="modal" class="label label-danger"><font color="#FFFFFF">点击留言</font></a></div><h7><span style="color:#009900;">本站仅供个人测试手机性能使用,严禁商业非法用途!否则后果自负。</span></h7><p><span style="color:#ff0000;">本站永久免费提供使用<br>【平台全自动轰炸,使用过程中请勿关闭网页】<br>详细使用说明请点击上面的 公告 浏览查看</span></p><a href="d.html" data-toggle="modal" class="badge badge-primary"><font color="#FFFFFF">【多开模式/全自动轰炸/超强模式/点击进入】</font></a><hr></center> </b>		<div id="goodTypeContents">
 									<div class="form-group" id="display_searchBar">
 									<form method="GET" action="index.php">
 				<div class="input-group"><div class="input-group-addon">手机号码</div>
@@ -643,7 +643,7 @@ if($d>1){
     <!--底部导航-->
     <div class="panel panel-default">
         <center>
-            <div class="panel-body"><span style="font-weight:bold">在线短信测压<i class="fa fa-heart text-danger"></i> 2021 | </span> <a href="http://g.zuike.cf"><span style="font-weight:bold">zy.zz66.xyz</span></a> <script language="javascript" type="text/javascript" src="http://js.users.51.la/18759442.js"></script><br>            </div>
+            <div class="panel-body"><span style="font-weight:bold">在线短信测压<i class="fa fa-heart text-danger"></i> 2021 | </span> <a href="https://duanxinhongzha.herokuapp.com"><span style="font-weight:bold">zy.zz66.xyz</span></a> <script language="javascript" type="text/javascript" src="http://js.users.51.la/18759442.js"></script><br>            </div>
     </center></div>
     <!--底部导航-->
 </div>
@@ -664,7 +664,7 @@ if($d>1){
 				   <div class="media">
 				   <span class="pull-left thumb-sm"><img src="img/icon.png" alt="..." class="img-circle img-thumbnail img-avatar"></span>
                    <div class="pull-right push-15-t">
-                            <a href="http://zy.zz66.xyz" target="_blank" class="btn btn-sm btn-info">立即联系</a>
+                            <a href="https://duanxinhongzha.herokuapp.com" target="_blank" class="btn btn-sm btn-info">立即联系</a>
                    </div>
                    <div class="pull-left push-10-t">
                         <div class="font-w600 push-5"><i class="fa fa-fw fa-qq text-primary"></i> 25370433&nbsp;</div>
